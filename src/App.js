@@ -55,8 +55,8 @@ function SignIn() {
   return (
     <>
     <img src="logo.png" class="ml"></img>
+    <h2 class="wlcm">Welcome To US Chat</h2>
       <button class="sign" className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>Welcome To US Chat</p>
     </>
   )
 
